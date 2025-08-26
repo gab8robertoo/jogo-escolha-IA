@@ -32,33 +32,33 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Após o incêndio ser controlado, a direção pede que você e seus colegas façam um trabalho sobre prevenção de incêndios na escola. Como você procede?",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Pesquisa sobre causas comuns de incêndios e medidas de prevenção, fazendo um trabalho detalhado e apresentando soluções práticas.",
+                afirmacao: "Contribuiu para a conscientização e prevenção futura na escola."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: "Escreve o trabalho baseado só no que lembra da evacuação, sem pesquisar muito.",
+                afirmacao: "Apresentou um relato pessoal, mas faltou aprofundamento para prevenir novos acidentes."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Para chamar a atenção dos alunos sobre a importância da segurança contra incêndios, você precisa criar um cartaz. Como vai fazer?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Desenha um cartaz simples, mas claro, com informações sobre prevenção e rotas de fuga.",
+                afirmacao: "Conseguiu passar uma mensagem importante de forma acessível e direta."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Faz um cartaz muito colorido, mas sem informações claras sobre prevenção",
+                afirmacao:"O cartaz chamou atenção, mas não transmitiu o conteúdo necessário.""
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado  "Durante o trabalho em grupo, um colega não colaborou e entregou um trabalho sem muito esforço. O que você faz?"",
         alternativas: [
             {
                 texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
