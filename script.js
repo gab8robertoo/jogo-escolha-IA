@@ -58,7 +58,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado  "Durante o trabalho em grupo, um colega não colaborou e entregou um trabalho sem muito esforço. O que você faz?",
+        enunciado : "Durante o trabalho em grupo, um colega não colaborou e entregou um trabalho sem muito esforço. O que você faz?",
         alternativas: [
             {
                 texto: "Converso com ele para entender o motivo e incentivá-lo a ajudar mais no próximo trabalho.",
