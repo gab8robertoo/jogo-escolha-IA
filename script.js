@@ -53,20 +53,20 @@ const perguntas = [
             },
             {
                 texto: "Faz um cartaz muito colorido, mas sem informações claras sobre prevenção",
-                afirmacao:"O cartaz chamou atenção, mas não transmitiu o conteúdo necessário.""
+                afirmacao:"O cartaz chamou atenção, mas não transmitiu o conteúdo necessário."
             }
         ]
     },
     {
-        enunciado  "Durante o trabalho em grupo, um colega não colaborou e entregou um trabalho sem muito esforço. O que você faz?"",
+        enunciado  "Durante o trabalho em grupo, um colega não colaborou e entregou um trabalho sem muito esforço. O que você faz?",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+                texto: "Converso com ele para entender o motivo e incentivá-lo a ajudar mais no próximo trabalho.",
+                afirmacao: "Demonstrou empatia e espírito de equipe."
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
+                texto: "Aceito o trabalho do jeito que está para não causar conflito.",
+                afirmacao: "Evita confrontos, mas prejudica o resultado final do grupo."
             }
         ]
     },
